@@ -1,6 +1,6 @@
 # FileSplitter
 
-VB6 working copy of `FileSplitter` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: FileSplitter. Output: `FileSplitter.exe`. `VersionCompanyName`: Makino.
+VB6 File Splitter (`FileSplitter.exe`, VersionCompanyName Makino) that splits a file into sized parts (KB or part count) and can join the parts back, with estimates, progress, optional delete-after-join, and an Explorer shortcut to the split folder. Open `FileSplitter.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
