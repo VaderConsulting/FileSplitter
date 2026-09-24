@@ -21,7 +21,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/FileSplitter`.
+Working copy from my Historical Dev folder `VB/FileSplitter`.
 Company names in `.vbp` files: Makino.
 Third-party attribution: Makino. See `THIRD_PARTY_NOTICES.md`.
 
